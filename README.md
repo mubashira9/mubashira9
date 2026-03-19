@@ -1,9 +1,13 @@
-# Oh hello there, I am Mubashira
+# Oh hello there, I am Mubashira!
 
 > *crafting it, line by line.*
+>
 > *every error, a lesson dressed in red.*
+>
 > *this girl is a chaos, that hasn't compiled yet,*
+>
 > *with a mind that thinks algorithms*
+>
 > *and a heart that bleeds in ink.*
 
 ---
